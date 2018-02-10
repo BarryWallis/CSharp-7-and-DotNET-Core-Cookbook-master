@@ -35,6 +35,7 @@ namespace Chapter1
         //#endregion
 
         #region Throw Expressions
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2201:DoNotRaiseReservedExceptionTypes")]
         public static int GetNameLength(string firstName, string lastName)
             => firstName.Length + lastName.Length > 0 ? firstName.Length + lastName.Length : throw new Exception("First and last names are empty");
         #endregion
