@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<FundamentalsOfProgramming xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" RoomNumber="Lecture Auditorium A121" xmlns="http://serialization">
+  <LecturerFullname>Prof. Johan van Niekerk</LecturerFullname>
+  <StudentsInClass>
+    <Student>
+      <StudentName>John Smith</StudentName>
+      <SubjectMark>86.4</SubjectMark>
+    </Student>
+    <Student>
+      <StudentName>Jane Smith</StudentName>
+      <SubjectMark>67.3</SubjectMark>
+    </Student>
+  </StudentsInClass>
+</FundamentalsOfProgramming>

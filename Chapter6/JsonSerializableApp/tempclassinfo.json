@@ -1,0 +1,15 @@
+{
+  "Lecturer": "Prof. Johan van Niekerk",
+  "ClassAverage": 76.85,
+  "RoomNumber": "Lecture Auditorium A121",
+  "Students": [
+    {
+      "StudentName": "John Smith",
+      "SubjectMark": 86.4
+    },
+    {
+      "StudentName": "Jane Smith",
+      "SubjectMark": 67.3
+    }
+  ]
+}
